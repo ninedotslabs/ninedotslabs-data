@@ -1,0 +1,17 @@
+[
+    {
+	name: "React TIUINWS",
+	url: "https://react-tiuinws.netlify.app/",
+	description: "React app overview for fetching static api repository TIUINWS."
+    },
+    {
+	name: "Static APIs",
+	url: "https://github.com/tiuinws/static-api",
+	description: "A collection of static data about something."
+    },
+    {
+	name: "Scratch Blogger Theme",
+	url: "https://github.com/tiuinws/scratchbloggertheme",
+	description: "A clean Blogger.com theme."
+    }
+]
